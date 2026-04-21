@@ -1,0 +1,16 @@
+{
+  "appgroup_id": "69e7d3c2c4946c3f24c1139b",
+  "appgroup_name": "Fermenter 2 Kamera",
+  "apps": {
+    "fermenter_2_livebild": {
+      "app_id": "69e7d3b82dcd3f9ec28882d7",
+      "name": "Fermenter 2 Livebild",
+      "controls": {}
+    }
+  },
+  "metadata": {
+    "apps_list": [
+      "Fermenter 2 Livebild"
+    ]
+  }
+}
